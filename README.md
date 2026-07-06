@@ -160,4 +160,4 @@ Deterministic Resource Allocation: Utilizing an async engine like Embassy allows
 
 Would you like to extend this documentation to layout a schematic blueprint for adding your next hardware peripheral, such as an I2C sensor or a Wi-Fi monitoring stack?
 
-<img src="/private/var/folders/tq/q67xcwkd5h70p8tl7gd5bxxr0000gn/T/TemporaryItems/com.apple.Photos.NSItemProvider/uuid=04CF7DA1-CFE1-4A23-BAB7-2B8355D86345&amp;code=001&amp;library=1&amp;type=1&amp;mode=2&amp;loc=true&amp;cap=true.jpeg/IMG_0153.jpeg"/>
+![](/private/var/folders/tq/q67xcwkd5h70p8tl7gd5bxxr0000gn/T/TemporaryItems/com.apple.Photos.NSItemProvider/uuid=04CF7DA1-CFE1-4A23-BAB7-2B8355D86345&code=001&library=1&type=1&mode=2&loc=true&cap=true.jpeg/IMG_0153.jpeg)
